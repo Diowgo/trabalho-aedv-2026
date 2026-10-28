@@ -10,8 +10,8 @@ Este trabalho investiga, a partir das estatísticas coletivas das equipes, como 
 
 | Marco | Arquivo | Conteúdo |
 |---|---|---|
-| Marco 1 | [`Entrega-Marco-1.pdf`](Entrega-Marco-1.pdf) | Proposta do projeto e perguntas de pesquisa |
-| Marco 2 | [`Entrega-Marco-2.ipynb`](Entrega-Marco-2.ipynb) | Entrega intermediária: notebook em forma de artigo, com uma visualização inicial por pergunta |
+| Marco 1 | [`Marco_1.pdf`](Marco_1.pdf) | Proposta do projeto e perguntas de pesquisa |
+| Marco 2 | [`Marco_2.ipynb`](Marco_2.ipynb) | Entrega intermediária: notebook em forma de artigo, com uma visualização inicial por pergunta |
 | Marco 3 | — | Entrega final (em andamento) |
 
 ## Estrutura do repositório
@@ -28,3 +28,11 @@ Este trabalho investiga, a partir das estatísticas coletivas das equipes, como 
 ## Dados
 
 Os dados vêm da base [NBA Stats (1947–present)](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats), de Sumitro Datta, que reúne estatísticas do Basketball-Reference. No Marco 2, foram usados os arquivos `Team_Totals.csv` e `Team_Summaries.csv`. Os demais ficam disponíveis em `data/` para as próximas etapas.
+
+## Dependências
+
+1. Numpy, Altair, Jupyter:
+
+   ```
+   pip install pandas numpy altair jupyter
+   ```
