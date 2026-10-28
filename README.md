@@ -18,7 +18,7 @@ Este trabalho investiga, a partir das estatísticas coletivas das equipes, como 
 
 ```
 .
-├── data/                    # dados brutos (CSVs do Kaggle) e _info.md com a fonte
+├── data/            # dados brutos (CSVs do Kaggle) e _info.md com a fonte
 ├── Marco_1.pdf      # entrega do Marco 1
 ├── Marco_2.ipynb    # entrega do Marco 2
 ├── LICENSE
